@@ -2,17 +2,17 @@
 
 # 1. KoNLPy - Kkma
 
-# KoNLPy
+### KoNLPy
 - '코엔엘파이'는 한국어 정보처리를 위한 파이썬 패키지
 
-* *KoNLPy 형태소 분석기*
+### KoNLPy 형태소 분석기
 - Hannanum(한나눔) : KAIST Semantic Web Research Center 개발(http://semanticweb.kaist.ac.kr/hannanum/)
 - Kkma(꼬꼬마) : 서울대학교 IDS(Intelligent Data Systems) 연구실 개발(http://kkma.snu.ac.kr/)
 - Komoran(코모란) : Shineware에서 개발(https://github.com/shin285/KOMORAN)
 - Mecab(메카브) : 일본어용 형태소 분석기를 한국어를 사용할 수 있도록 수정(https://bitbucket.org/eunjeon/mecab-ko)
 - OpenKoreanText(Okt): 오픈 소스 한국어 분석기, 과거 트위터(Twitter) 형태소 분석기(https://github.com/open-korean-text/open-korean-text)
 
-* *Kkma(Kind Korean Morpheme Analyzer)*
+### Kkma(Kind Korean Morpheme Analyzer)
 - 꼬꼬마 프로젝트는 서울대학교 IDS (Intelligent Data Systems) 연구실에서 자연어 처리를 하기 위한 다양한 모듈 및 자료를 구축하기 위한 과제
 - 꼬꼬마 한글 형태소 분석기는 Java 라이브러리로써 jar 파일 형태로 개발되었으나, 파이썬에서도 쉽게 사용할 수 있음
 - 다른 형태소 분석기와 동일하게 Text의 형태소를 분석하는데 쓰임
@@ -24,7 +24,7 @@
 
 # 3. 형태소 분석
 
-* *형태소(Morpheme)*
+### 형태소(Morpheme)
 - 형태소는 '뜻을 가진 가장 작은 말의 단위'
 - '책가방' => '책', '가방'
 - 명사, 대명사, 수사, 조사, 동사, 형용사, 관형사, 부사, 감탄사
@@ -187,16 +187,16 @@ print(kkm_eng)
 
 ## 4.1 kkma 장단점
 
-* *장점*
+### 장점
 - 띄어쓰기를 잘 판단
 - 문장에 대한 품사 태깅을 구체적으로 해주어 정확성이 높음
 
-* *단점*
+### 단점
 - 품사 태깅시 다른 형태소 분석기에 비해 시간이 오래 걸림
 - 문맥에 따른 품사 구분 능력이 다소 떨어짐
 - 실제로 kkma 보다는 Okt, MeCab 등을 활용
 
-h2. 4.2 활용성
+## 4.2 활용성
 
 * 강재지침서 체크리스트 대상으로 형태소 분석 비교(Kkma, Okt, Mecab)
 
