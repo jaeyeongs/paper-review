@@ -1,3 +1,3 @@
-# NLP study
+# NLP(Natural Language Processing)
 
-## 자연어처리 관련 논문 분석 및 코드 구현
+## 자연어처리 분석 및 논문 리뷰
