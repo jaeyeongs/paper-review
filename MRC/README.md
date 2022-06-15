@@ -1,5 +1,6 @@
 # MRC(Machine Reading Comprehension)
 
+
 ## 1. MRC 개념
 
 **MRC (Machine Reading Comprehension)**
@@ -7,6 +8,7 @@
 : 기계 독해(Machine Reading Comprehension)란 주어진 지문(context)을 이해하고, 주어진 질의 (Query/Question)의 답변을 추론하는 문제
 
 ![image](https://user-images.githubusercontent.com/87981867/173344628-57ef282e-a1bd-41ee-a916-c5cf88d1695b.png)
+
 
 ## 2. MRC의 종류
 
@@ -24,6 +26,7 @@ ex) MS MARCO (Bajaj et al., 2016), Narrative QA
 
 : 질의에 대한 답을 여러 개의 answer candidates 중 하나로 고르는 형태
 ex) MCTest(Richardson et al., 2013), RACE, ARC, etc.
+
 
 ## 3. 평가 방법
 
