@@ -1,6 +1,6 @@
 # 한국어 띄어쓰기 관련 모델 : KoreanWord-Spacing
 
-2022_04
+발표 : 2022_04_27
 
 ## (1) Bidirectional LSTM-CRF
 
