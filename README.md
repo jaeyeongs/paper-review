@@ -5,4 +5,7 @@
 - BERT
 - Korean-Word Spacing
 
-## NLP()
+## NLP(Natural Language Processing)
+
+- 형태소 분석
+- MRC(Machine Reading Comprehension)
