@@ -4,6 +4,7 @@
 
 - BERT
 - Korean-Word Spacing
+- Sentence-BERT
 
 ## NLP(Natural Language Processing)
 
