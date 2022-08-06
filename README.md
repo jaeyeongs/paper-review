@@ -2,7 +2,7 @@
 
 ## Paper
 
-- BERT
+- BERT 
 - Korean-Word Spacing
 - Sentence-BERT
 
